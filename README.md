@@ -1,0 +1,1 @@
+The figure presents the OPE performance of SpectralDice and five baselines on three environments: from left to right, CartPole, Reacher, and HalfCheetah. We run all methods with three random seeds and show both the average value and standard deviation.
